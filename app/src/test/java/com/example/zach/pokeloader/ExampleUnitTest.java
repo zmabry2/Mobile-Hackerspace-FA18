@@ -1,4 +1,4 @@
-package com.example.zach.cs196fall2018;
+package com.example.zach.pokeloader;
 
 import org.junit.Test;
 
